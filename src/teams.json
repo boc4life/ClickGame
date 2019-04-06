@@ -2,161 +2,161 @@
     {
         "id": 1,
         "name": "Broncos",
-        "image": "./images/broncos.gif" 
+        "image": "/images/broncos.gif" 
     },
     {
         "id": 2,
         "name": "Chargers",
-        "image": "./images/chargers.gif"
+        "image": "/images/chargers.gif"
     },
     {
         "id": 3,
         "name": "Raiders",
-        "image": "./images/raiders.gif" 
+        "image": "/images/raiders.gif" 
     },
     {
         "id": 4,
         "name": "Chiefs",
-        "image": "./images/chiefs.gif"
+        "image": "/images/chiefs.gif"
     },
     {
         "id": 5,
         "name": "Ravens",
-        "image": "./images/ravens.gif" 
+        "image": "/images/ravens.gif" 
     },
     {
         "id": 6,
         "name": "Steelers",
-        "image": "./images/steelers.gif" 
+        "image": "/images/steelers.gif" 
     },
     {
         "id": 7,
         "name": "Browns",
-        "image": "./images/browns.gif" 
+        "image": "/images/browns.gif" 
     },
     {
         "id": 8,
         "name": "Bengals",
-        "image": "./images/bengals.gif" 
+        "image": "/images/bengals.gif" 
     },
     {
         "id": 9,
         "name": "Titans",
-        "image": "./images/titans.gif" 
+        "image": "/images/titans.gif" 
     },
     {
         "id": 10,
         "name": "Texans",
-        "image": "./images/texans.gif" 
+        "image": "/images/texans.gif" 
     },
     {
         "id": 11,
         "name": "Jaguars",
-        "image": "./images/jaguars.gif" 
+        "image": "/images/jaguars.gif" 
     },
     {
         "id": 12,
         "name": "Colts",
-        "image": "./images/colts.gif" 
+        "image": "/images/colts.gif" 
     },
     {
         "id": 13,
         "name": "Jets",
-        "image": "./images/jets.gif" 
+        "image": "/images/jets.gif" 
     },
     {
         "id": 14,
         "name": "Bills",
-        "image": "./images/bills.gif" 
+        "image": "/images/bills.gif" 
     },
     {
         "id": 15,
         "name": "Dolphins",
-        "image": "./images/dolphins.gif" 
+        "image": "/images/dolphins.gif" 
     },
     {
         "id": 16,
         "name": "Patriots",
-        "image": "./images/patriots.gif" 
+        "image": "/images/patriots.gif" 
     },
     {
         "id": 17,
         "name": "Seahawks",
-        "image": "./images/seahawks.gif" 
+        "image": "/images/seahawks.gif" 
     },
     {
         "id": 18,
         "name": "Cardinals",
-        "image": "./images/cardinals.gif" 
+        "image": "/images/cardinals.gif" 
     },
     {
         "id": 19,
         "name": "Rams",
-        "image": "./images/rams.gif" 
+        "image": "/images/rams.gif" 
     },
     {
         "id": 20,
         "name": "49ers",
-        "image": "./images/49ers.gif" 
+        "image": "/images/49ers.gif" 
     },
     {
         "id": 21,
         "name": "Panthers",
-        "image": "./images/panthers.gif" 
+        "image": "/images/panthers.gif" 
     },
     {
         "id": 22,
         "name": "Buccaneers",
-        "image": "./images/buccaneers.gif" 
+        "image": "/images/buccaneers.gif" 
     },
     {
         "id": 23,
         "name": "Saints",
-        "image": "./images/saints.gif" 
+        "image": "/images/saints.gif" 
     },
     {
         "id": 24,
         "name": "Falcons",
-        "image": "./images/falcons.gif" 
+        "image": "/images/falcons.gif" 
     },
     {
         "id": 25,
         "name": "Lions",
-        "image": "./images/lions.gif" 
+        "image": "/images/lions.gif" 
     },
     {
         "id": 26,
         "name": "Vikings",
-        "image": "./images/vikings.gif" 
+        "image": "/images/vikings.gif" 
     },
     {
         "id": 27,
         "name": "Bears",
-        "image": "./images/bears.gif"
+        "image": "/images/bears.gif"
     },
     {
         "id": 28,
         "name": "Packers",
-        "image": "./images/packers.gif"
+        "image": "/images/packers.gif"
     },
     {
         "id": 29,
         "name": "Redskins",
-        "image": "./images/redskins.gif" 
+        "image": "/images/redskins.gif" 
     },
     {
         "id": 30,
         "name": "Cowboys",
-        "image": "./images/cowboys.gif" 
+        "image": "/images/cowboys.gif" 
     },
     {
         "id": 31,
         "name": "Giants",
-        "image": "./images/giants.gif"
+        "image": "/images/giants.gif"
     },
     {
         "id": 32,
         "name": "Eagles",
-        "image": "./images/eagles.gif"
+        "image": "/images/eagles.gif"
     }
 ]
