@@ -1,36 +1,15 @@
 import React from "react";
 import "./style.css";
-import teams from "./../../teams.json";
 import Square from "./../Square";
 
 class Board extends React.Component {
-state = {
-    teams: teams,
-    clicked: [],
-    score: 0
-};
-
-handleClick = (key) => {
-    if (this.state.clicked.includes(key)){
-        console.log("loss")
-    }
-    else {
-        this.state.clicked.push(key)
-        // Shuffle array of logos. Algorithm found on StackOverflow
-        for (let i = this.state.teams.length - 1; i > 0; i--) {
-            let j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
-            [this.state.teams[i], this.state.teams[j]] = [this.state.teams[j], this.state.teams[i]]; // swap elements
-          }
-        this.setState({ score: this.state.score + 1 })
-    }
-}
 
 renderSquare = i => {
     return <Square
-    image={this.state.teams[i].image}
-    id={this.state.teams[i].id}
-    team={this.state.teams[i].name}
-    click={this.handleClick}
+    image={this.props.teams[i].image}
+    id={this.props.teams[i].id}
+    team={this.props.teams[i].name}
+    click={this.props.handleClick}
         />
 }
 
