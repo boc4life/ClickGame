@@ -21,20 +21,20 @@ class App extends Component {
           console.log(this.state)
       }
       else {
-          this.state.clicked.push(key)
-          // Shuffle array of logos. Algorithm found on StackOverflow
-          for (let i = this.state.teams.length - 1; i > 0; i--) {
-              let j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
-              [this.state.teams[i], this.state.teams[j]] = [this.state.teams[j], this.state.teams[i]]; // swap elements
-            }
-          this.setState({ score: this.state.score + 1 })
-          if (this.state.score == 32) {
-            alert("Perfect Score! You win!")
-            this.setState({
-              clicked: [],
-              score: 0
-            })
+        if (this.state.score == 31) {
+          alert("Perfect Score! You win!")
+          this.setState({
+            clicked: [],
+            score: 0
+          })
+        }
+        this.state.clicked.push(key)
+        // Shuffle array of logos. Algorithm found on StackOverflow
+        for (let i = this.state.teams.length - 1; i > 0; i--) {
+            let j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
+            [this.state.teams[i], this.state.teams[j]] = [this.state.teams[j], this.state.teams[i]]; // swap elements
           }
+        this.setState({ score: this.state.score + 1 })
       }
   }
 
