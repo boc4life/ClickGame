@@ -1,13 +1,13 @@
 {
   "main.css": "/ClickGame/static/css/main.65b3c567.chunk.css",
-  "main.js": "/ClickGame/static/js/main.761a64f9.chunk.js",
-  "main.js.map": "/ClickGame/static/js/main.761a64f9.chunk.js.map",
+  "main.js": "/ClickGame/static/js/main.d87f5535.chunk.js",
+  "main.js.map": "/ClickGame/static/js/main.d87f5535.chunk.js.map",
   "runtime~main.js": "/ClickGame/static/js/runtime~main.979c4616.js",
   "runtime~main.js.map": "/ClickGame/static/js/runtime~main.979c4616.js.map",
   "static/js/2.98dcc9dd.chunk.js": "/ClickGame/static/js/2.98dcc9dd.chunk.js",
   "static/js/2.98dcc9dd.chunk.js.map": "/ClickGame/static/js/2.98dcc9dd.chunk.js.map",
   "index.html": "/ClickGame/index.html",
-  "precache-manifest.6958c339307b2fbfa63f7a875fda2ef6.js": "/ClickGame/precache-manifest.6958c339307b2fbfa63f7a875fda2ef6.js",
+  "precache-manifest.6e23cfb4180f49804744cbe8e7354e29.js": "/ClickGame/precache-manifest.6e23cfb4180f49804744cbe8e7354e29.js",
   "service-worker.js": "/ClickGame/service-worker.js",
   "static/css/main.65b3c567.chunk.css.map": "/ClickGame/static/css/main.65b3c567.chunk.css.map"
 }
