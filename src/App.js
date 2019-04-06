@@ -28,6 +28,7 @@ class App extends Component {
             score: 0
           })
         }
+        else {
         this.state.clicked.push(key)
         // Shuffle array of logos. Algorithm found on StackOverflow
         for (let i = this.state.teams.length - 1; i > 0; i--) {
@@ -35,6 +36,7 @@ class App extends Component {
             [this.state.teams[i], this.state.teams[j]] = [this.state.teams[j], this.state.teams[i]]; // swap elements
           }
         this.setState({ score: this.state.score + 1 })
+        }
       }
   }
 
