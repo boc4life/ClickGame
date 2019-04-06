@@ -28,13 +28,13 @@ class App extends Component {
               [this.state.teams[i], this.state.teams[j]] = [this.state.teams[j], this.state.teams[i]]; // swap elements
             }
           this.setState({ score: this.state.score + 1 })
-      }
-      if (this.state.score == 32) {
-        alert("Perfect Score! You win!")
-        this.setState({
-          clicked: [],
-          score: 0
-        })
+          if (this.state.score == 32) {
+            alert("Perfect Score! You win!")
+            this.setState({
+              clicked: [],
+              score: 0
+            })
+          }
       }
   }
 
