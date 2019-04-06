@@ -2,7 +2,7 @@
   "name": "click-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/ClickGame",
+  "homepage": "https://boc4life.github.io/ClickGame",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
