@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ClickGame/precache-manifest.6e23cfb4180f49804744cbe8e7354e29.js"
+  "/ClickGame/precache-manifest.d70b28b26dc58be19b2469416aed5e1b.js"
 );
 
 workbox.clientsClaim();
