@@ -1,5 +1,5 @@
 {
-  "main.css": "/ClickGame/static/css/main.65b3c567.chunk.css",
+  "main.css": "/ClickGame/static/css/main.4bf13773.chunk.css",
   "main.js": "/ClickGame/static/js/main.33878abe.chunk.js",
   "main.js.map": "/ClickGame/static/js/main.33878abe.chunk.js.map",
   "runtime~main.js": "/ClickGame/static/js/runtime~main.979c4616.js",
@@ -7,7 +7,7 @@
   "static/js/2.98dcc9dd.chunk.js": "/ClickGame/static/js/2.98dcc9dd.chunk.js",
   "static/js/2.98dcc9dd.chunk.js.map": "/ClickGame/static/js/2.98dcc9dd.chunk.js.map",
   "index.html": "/ClickGame/index.html",
-  "precache-manifest.998b3ed8f11208210d4e50ffc9312e15.js": "/ClickGame/precache-manifest.998b3ed8f11208210d4e50ffc9312e15.js",
+  "precache-manifest.7e288db936242c2d5913944c21f1684e.js": "/ClickGame/precache-manifest.7e288db936242c2d5913944c21f1684e.js",
   "service-worker.js": "/ClickGame/service-worker.js",
-  "static/css/main.65b3c567.chunk.css.map": "/ClickGame/static/css/main.65b3c567.chunk.css.map"
+  "static/css/main.4bf13773.chunk.css.map": "/ClickGame/static/css/main.4bf13773.chunk.css.map"
 }
