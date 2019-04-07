@@ -1,3 +1,52 @@
+@media only screen and (max-width: 1460px) {
+    .game-square {
+      height: 68px;
+      width: 102px;
+    }
+  }
+
+@media only screen and (max-width: 1175px) {
+.game-square {
+    height: 50px;
+    width: 75px;
+}
+}
+
+@media only screen and (max-width: 875px) {
+.game-square {
+    height: 40px;
+    width: 60px;
+}
+}
+
+@media only screen and (max-width: 740px) {
+    .game-square {
+      height: 28px;
+      width: 42px;
+    }
+  }
+
+@media only screen and (max-width: 595px) {
+.game-square {
+    height: 20px;
+    width: 30px;
+}
+}
+
+@media only screen and (max-width: 500px) {
+    .game-square {
+      height: 18px;
+      width: 27px;
+    }
+  }
+
+@media only screen and (max-width: 480px) {
+.game-square {
+    height: 44px;
+    width: 66px;
+}
+}
+
 .game-square {
     margin: 1rem;
     display: inline-block;
